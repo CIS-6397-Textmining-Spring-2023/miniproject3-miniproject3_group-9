@@ -1,0 +1,6 @@
+Model with 5 topics:
+Topic 0: 0.009*"said" + 0.007*"mr" + 0.007*"state" + 0.006*"islamic" + 0.005*"new" + 0.005*"us" + 0.004*"year" + 0.004*"one" + 0.003*"trump" + 0.003*"people"
+Topic 1: 0.010*"said" + 0.008*"mr" + 0.008*"us" + 0.007*"state" + 0.006*"trump" + 0.006*"islamic" + 0.004*"president" + 0.004*"official" + 0.004*"syria" + 0.004*"force"
+Topic 2: 0.006*"said" + 0.005*"mr" + 0.004*"state" + 0.004*"islamic" + 0.003*"trump" + 0.003*"new" + 0.003*"one" + 0.002*"american" + 0.002*"syria" + 0.002*"york"
+Topic 3: 0.011*"said" + 0.011*"mr" + 0.008*"trump" + 0.006*"new" + 0.006*"state" + 0.005*"islamic" + 0.004*"president" + 0.004*"united" + 0.004*"states" + 0.004*"times"
+Topic 4: 0.011*"said" + 0.008*"mr" + 0.007*"new" + 0.006*"state" + 0.006*"islamic" + 0.005*"trump" + 0.004*"york" + 0.004*"times" + 0.004*"one" + 0.004*"would"
